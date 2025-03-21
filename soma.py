@@ -1,4 +1,7 @@
-""" SOMA DE ELEMENTOS PARES """
+""" SOMA DE ELEMENTOS PARES 
+* Escreva uma função que recebe uma lista de números inteiros e retorna a soma de todos os
+elementos pares contidos nela.
+"""
 
 lista = [1, 2, 4, 5, 7, 8, 12, 15, 18]
 
